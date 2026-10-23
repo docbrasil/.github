@@ -1,51 +1,55 @@
-<h1 align="center">DocBrasil</h1>
-
 <p align="center">
-  <strong>Tecnologia para organizar documentos e conectar operações.</strong>
+  <a href="https://www.dbrasil.com.br/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/docbrasil-logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/docbrasil-logo-light.svg">
+      <img src="./assets/docbrasil-logo-light.svg" width="260" alt="DocBrasil">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  Gestão documental · Processos digitais · Informação acessível
+  <strong>Documentos, processos e tecnologia para a sua empresa.</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.dbrasil.com.br/">Conheça a DocBrasil</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:comercial@dbrasil.com.br">Fale com nossa equipe</a>
-</p>
+A **DocBrasil** reúne software próprio, gestão documental e desenvolvimento sob demanda para conectar informações, pessoas e processos.
 
-Sobre a DocBrasil
-A DocBrasil desenvolve soluções para a gestão de documentos e processos empresariais. Conectamos informação, pessoas e operações para simplificar rotinas e facilitar o acesso aos documentos que fazem parte do dia a dia das organizações.
+Criamos soluções para todas as áreas da empresa — do RH ao financeiro, do jurídico à operação. Nossa plataforma apoia as rotinas documentais e os fluxos de trabalho de cada equipe, com recursos integrados e acesso conforme o perfil de cada usuário.
 
-Nossa plataforma reúne gestão documental, recursos para RH e Departamento Pessoal, controle de acervos físicos e assinaturas de documentos em um ambiente integrado.
-Nossa plataforma
-Solução	O que ela oferece
-Gestão Eletrônica de Documentos — GED	Organização, classificação, pesquisa e consulta de documentos digitais, com informações adaptadas a diferentes tipos documentais.
-RH e Departamento Pessoal — RH/DP	Gestão de documentos de colaboradores e apoio às rotinas documentais das equipes de Recursos Humanos e Departamento Pessoal.
-Gestão de acervo físico — WMS	Controle de caixas, localização do acervo e acompanhamento de solicitações, movimentações e devoluções.
-Assinaturas	Envio e acompanhamento de documentos em processos de assinatura.
-Portal DocBrasil	Acesso às soluções e aos serviços da plataforma conforme o perfil e as permissões de cada usuário.
+## Nossas soluções
 
+### <img src="./assets/icon-vault.svg" width="24" height="24" alt=""> Documentos e informações
 
-Como construímos
-Nossas decisões de produto e engenharia partem das necessidades de quem trabalha com documentos e processos todos os dias.
-- Clareza no uso: interfaces organizadas e caminhos simples para as tarefas frequentes.
-- Informação estruturada: documentos e dados organizados conforme o contexto de cada operação.
-- Controle de acesso: recursos e informações disponíveis conforme as responsabilidades de cada perfil.
-- Evolução contínua: melhorias orientadas pelo uso da plataforma, com atenção à qualidade e à manutenção do software.
-Tecnologia
-Desenvolvemos aplicações web, APIs e integrações que sustentam os serviços da DocBrasil.
+Organização, classificação, pesquisa e consulta de documentos digitais, com campos e tipos documentais adaptados à operação.
 
-Entre as tecnologias utilizadas estão:
+### <img src="./assets/icon-people.svg" width="24" height="24" alt=""> RH e Departamento Pessoal
 
-Frontend · JavaScript, Vue.js e Quasar
-Backend · Node.js e Express
-Dados e serviços em nuvem · MongoDB e Firebase
-DocBrasil no GitHub
-Esta organização reúne os projetos de software da DocBrasil: aplicações, serviços, integrações e ferramentas que apoiam a construção e a evolução da nossa plataforma.
+Gestão da documentação de colaboradores, apoiando as rotinas e o acesso às informações das equipes de RH e DP.
 
-Para conhecer nossas soluções ou conversar sobre as necessidades da sua empresa, acesse o site institucional ou entre em contato pelo e-mail comercial@dbrasil.com.br.
-<p align="center">
-  <strong>DocBrasil</strong><br>
-  Documentos organizados. Operações conectadas.
-</p>
+### <img src="./assets/icon-sign.svg" width="24" height="24" alt=""> Assinaturas e contratos
+
+Envio e acompanhamento de documentos para assinatura, conectados aos processos de contratação e formalização.
+
+### <img src="./assets/icon-control.svg" width="24" height="24" alt=""> Acervo físico e operações
+
+Controle de caixas, localização, solicitações e movimentações, junto aos serviços de guarda, digitalização e transporte documental.
+
+### <img src="./assets/icon-flow.svg" width="24" height="24" alt=""> Portais e fluxos de trabalho
+
+Ferramentas e serviços reunidos em um portal, com perfis, permissões e processos que conectam diferentes áreas da empresa.
+
+## White label: com a cara da sua empresa
+
+A plataforma é **white label**. Você configura **cores, logo e fundo da tela de login** para incorporar a identidade visual da sua empresa à experiência de uso.
+
+## Desenvolvimento sob demanda
+
+Quando as soluções disponíveis não atendem ao nível de detalhe que sua operação precisa, **desenvolvemos funcionalidades, integrações e sistemas sob demanda**.
+
+O trabalho parte dos processos da sua empresa: podemos adaptar um fluxo existente ou construir uma solução para uma necessidade específica.
+
+---
+
+Esta organização reúne os projetos que dão vida à plataforma e às soluções da DocBrasil.
+
+[Site institucional](https://www.dbrasil.com.br/) · [Contato](mailto:comercial@dbrasil.com.br)
